@@ -1,0 +1,7 @@
+A = int(input('Insira 1° valor: '))
+B = int(input('Insira 2° Valor: '))
+C = int(input('Insira 3° valor: '))
+D = int(input('Insira 4° valor: '))
+DIFERENCA = (A*B-C*D)
+print('DIFERENCA =', DIFERENCA)
+print()
